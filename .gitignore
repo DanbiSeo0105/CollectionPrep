@@ -1,0 +1,6 @@
+# log folders
+bin/
+obj/
+
+#Project file
+CollectionPrep.csproj
