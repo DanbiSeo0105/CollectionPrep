@@ -1,0 +1,7 @@
+D:\Lecture\C#\Project\CollectionPrep\CollectionPrep\bin\Debug\CollectionPrep.exe.config
+D:\Lecture\C#\Project\CollectionPrep\CollectionPrep\bin\Debug\CollectionPrep.exe
+D:\Lecture\C#\Project\CollectionPrep\CollectionPrep\bin\Debug\CollectionPrep.pdb
+D:\Lecture\C#\Project\CollectionPrep\CollectionPrep\obj\Debug\CollectionPrep.csprojResolveAssemblyReference.cache
+D:\Lecture\C#\Project\CollectionPrep\CollectionPrep\obj\Debug\CollectionPrep.csproj.CoreCompileInputs.cache
+D:\Lecture\C#\Project\CollectionPrep\CollectionPrep\obj\Debug\CollectionPrep.exe
+D:\Lecture\C#\Project\CollectionPrep\CollectionPrep\obj\Debug\CollectionPrep.pdb
